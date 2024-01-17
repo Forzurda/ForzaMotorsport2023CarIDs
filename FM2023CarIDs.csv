@@ -162,6 +162,7 @@
 1322	Lamborghini Gallardo LP 570-4
 1323	Subaru WRX STI '11
 1325	Alfa Romeo Giulietta Quadrifoglio
+1328  Bugatti Veyron Super Sport
 1329	Buick GSX
 1330	Chevrolet Camaro Z28
 1331	Plymouth GTX 426 HEMI
@@ -279,6 +280,7 @@
 2178	Audi RS 4 Avant '01
 2179	Audi S1
 2180	Audi RS 6 Avant '15
+2181  Aston Martin V12 Vantage S
 2184	Ferrari 458 Speciale
 2185	Jaguar XFR-S
 2186	Ferrari 500 Mondial
@@ -328,10 +330,13 @@
 2426	Alpine GTA Le Mans
 2427	Vauxhall Corsa VXR
 2434	#99 Toyota Eagle Mk III
+2467  Ferrari 488 GTB
 2468	Dodge Charger SRT Hellcat
 2470	Aston Martin Vulcan
 2471	Mercedes-AMG C 63 S Coupe
 2473	Audi R8 V10 Plus
+2475  Spania GTA Spano
+2479  Lamborghini Aventador Superveloce
 2481	McLaren P1 GTR
 2482	#20 Nissan Bluebird
 2483	#23 Nissan R91CP
@@ -493,6 +498,7 @@
 3369	Chevrolet Corvette Stingray Coupe
 3371	Lamboghini Huracan Evo
 3395	Renault 8 Gordini
+3599  Gordon Murray T.50
 3402	Toyota GR Supra
 3412	Subaru STI S209
 3413	Volkswagen Golf R '21
@@ -508,11 +514,13 @@
 3490	#3 Chevrolet Corvette C8.R
 3492	KTM X-Bow GT2
 3497	#23 Nissan R391
+3498  Saleen S7 LM
 3518	BMW M8 Competition Coupe
 3520	Lexus LC 500
 3532	#98 Hyundai Veloster N
 3533	Volkswagen Golf R '22
 3534	Mini John Cooper Works GP '21
+3537  #20 MG MG6 XPower
 3545	#73 Honda Civic
 3546	Lexus RC F Track Edition
 3547	Xpeng P7
@@ -547,6 +555,7 @@
 3766	Chevrolet Corvette Z06 '23
 3771	Chevrolet Covette E-Ray
 3792	#31 Cadillac V-Series.R
+3798  Mazda MX-5 Cup
 3800	Chevrolet Corvette Stingray Coupe FE
 3801	Chevrolet Camaro ZL1 1LE FE
 3802	Hyundai Veloster N FE
