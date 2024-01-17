@@ -2,8 +2,8 @@
 249	Ferrari 250 GTO
 251	Mercedes-Benz 300SL Coupe
 253	Ferrari F355 Berlinetta
-255	Ferrari Testarossa
-257	Ferrari 575M
+255	Ferrari 512 Testarossa
+257	Ferrari 575M Maranello
 260	Porsche 911 Carrera RS
 261	Porsche 911 GT2 '95
 262	Porsche 911 GT3 '04
@@ -48,10 +48,11 @@
 350	Infiniti G35 Coupe
 353	Volkswagen Golf Gti 16v Mk2
 354	Volkswagen Golf R32
-357	Mitubishi GTO
+357	Mitsubishi GTO
 358	Ferrari 288 GTO
 363	Subaru Impreza 22B-STi Version
 364	Subaru Impreza WRX STI '04
+365 Subaru Impreza WRX STI '05
 368	Acura Integra Type R
 374	Mitsubishi Lancer Evolution IX MR
 375	Mitsubishi Lancer Evolution VI GSR
@@ -59,6 +60,7 @@
 382	BMW M3 '97
 383	BMW M3 '05
 391	Maserati MC12
+397	Vauxhall Monaro VXR
 398	Toyota MR2 GT
 405	Ford SVT Cobra R '00
 411	Honda NSX-R '05
@@ -66,11 +68,13 @@
 417	Buick Regal GNX
 419	Audi RS 4
 420	Audi RS 6
+422 Acura RSX Type-S
 423	Mazda Savanna RX-7
 424	Mazda RX-7
 425	Mazda RX-7 Spirit R Type-A
 428	Audi S4
 432	Saleen S7
+433 TVR Sagaris
 439	Nissan Silvia CLUB K's
 440	Nissan Silvia K's
 441	Nissan Silvia Spec-R
@@ -88,8 +92,8 @@
 498	#7 Bentley Speed-8
 505	#15 BMW V12 LMR
 513	Dodge Charger R/T
-524	#12 Ferrari F333 SP
-540	#17 Porsche 962C
+524	#12 Ferrari Risi Competizione F333 SP
+540	#17 Porsche AG 962c
 550	#3 Peugeot 905 Evo 1C
 555	#3 Toyota GT-ONE TS020
 565	BMW M3-GTR
@@ -102,8 +106,11 @@
 642	BMW M3 '91
 1005	Pontiac Firebird T/A SD-455
 1009	Mitsubishi Lancer Evolution X GSR
+1011		BMW M3	'08
 1020	Ferrari F50 GT
+1022	Ferrari 430 Scuderia
 1023	Ferrari F40 Competizione
+1032	Alfa Romeo 8C Competizione
 1033	Chevrolet Camaro IROC-Z
 1034	Toyota Celica GT-Four ST205
 1040	BMW M1
@@ -122,6 +129,7 @@
 1104	Datsun 510
 1105	Aston Martin DB5
 1110	Mazda MX-5 Miata '94
+1130	McLaren 12C Coupe
 1131	Ferrari 458 Italia
 1154	Ferrari 250 Testa Rossa
 1155	Shelby Cobra Daytona Coupe
@@ -170,6 +178,7 @@
 1386	Aston Martin DBR1
 1387	Volvo 850 R
 1388	BMW M5 '12
+1392	Lamborghini Sesto Elemento
 1395	Toyota MR2 SC
 1426	Mazda RX-8
 1429	Chevrolet Nova SS 396
@@ -305,7 +314,7 @@
 2363	Ford GT '17
 2368	#23 Nissan GT-R LM Nismo
 2371	Ferrari FXX K
-2379  #63 Lamborghini Squadra Corse Huracan Super Trofeo
+2379  #63 Lamborghini Squadra Corse Huracan Super Trofeo	
 2400	Ford Mustang Shelby GT350R
 2401	Ferrari F-158 F1
 2403	#17 Bentley Continental GT3
@@ -338,6 +347,7 @@
 2537	Porsche 718 RS 60
 2538	#91 Porsche 991 RSR
 2541	Lotus 3-Eleven
+2542	Alfa Romeo Giulia Quadrifoglio
 2543	#66 Ford GT Le Mans
 2544	Dodge Viper ACR
 2549	#3 Porsche 917 LH
@@ -357,6 +367,7 @@
 2659	Nissan Silvia K's Aero
 2665	Bentley Continental Supersports
 2739	Chevrolet Camaro ZL1
+2740	Abarth 124 Spider	
 2741	Porsche Panamera Turbo
 2755	Porsche 911 GT2 RS '18
 2760	#17 Ford Falcon FG X
@@ -389,7 +400,7 @@
 2909	Dodge Challenger SRT Demon
 2910	Koenigsegg Agera RS
 2967	#38 Oreca 07
-2968  Aston Martin Valkyrie
+2968  Aston Martin Valkyrie	
 2973	Alpine A110
 2974	Ferrari 812 Superfast
 2980	Ford GT40 MkI
@@ -399,6 +410,7 @@
 2995	Volkswagen Golf GTI
 3018	#83 Nissan GTP ZX-Turbo
 3019	Ferrari 166 Inter Sport
+3023	#11 Porsche John Fitzpatrick Racing 956	
 3024	Aston Martin DBS '67
 3028	#11 Merkur XR4Ti
 3035	KTM X-Bow GT4
@@ -444,10 +456,11 @@
 3228	Ford Racing Puma
 3229	#44 Audi R8 LMS GT3
 3231	#66 Vauxhall Astra
+3239	#63 Lamborghini Squadra Corse Huracan Super Trofeo Evo
 3240	#36 Acura NSX GT3
 3243	#7 Peugeot DG Sport Competition 308
 3250	Mercedes-AMG E 63 S
-3256  #23 Chevrolet Ruman Racing TA Corvette
+3256  #23 Chevrolet Ruman Racing TA Corvette	
 3257	Nissan Pulsar GTI-R
 3264	Audi RS 5 Coupe
 3266	#14 BRM P201
@@ -467,6 +480,7 @@
 3311	Ferrari FXX K Evo
 3312	Ferrari Monza SP2
 3315	Koenigsegg Jesko
+3316  #6 Buick Performance Somerset Regal T/A
 3318	Audi RS 4 Avant '18
 3359	Audi RS e-tron GT
 3360	Automobili Pininfarina Battista
@@ -482,6 +496,7 @@
 3420	#6 Acura ARX-05 DPi
 3434	BMW M2 Competition Coupe
 3437	McLaren GT
+3543	Pagani Huayra R	
 3445	Porsche Taycan Turbo S
 3449	Lotus Evija
 3454	Audi RS 3 Sedan
@@ -514,16 +529,16 @@
 3650	Mercedes-AMG One
 3655	McLaren 620R
 3667	Porsche 911 GT3 '21
-3669  #31 Cadillac Whelen Racing DPi-V.R
+3669  #31 Cadillac Whelen Racing DPi-V.R	
 3672	Lamborghini Huracan STO
 3677	Lynk & Co 03+
 3689	MG MG6 XPower
 3698	Porsche Mission R
-3700  McLaren Sabre
+3700  McLaren Sabre	
 3716	Lotus Emira
 3719	Cadillac CT4-V Blackwing
 3720	Cadillac CT5-V Blackwing
-3724  Ferrari 296 GTB
+3724  Ferrari 296 GTB	
 3735	Subaru BRZ '22
 3745	Audi R8 V10 Performance
 3766	Chevrolet Corvette Z06 '23
