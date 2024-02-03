@@ -29,6 +29,7 @@
 315	Chevrolet Corvette ZR-1 '70
 316	Lamborghini Countach LP5000 QV
 320	Honda CR-X SiR
+323	Lancia Delta HF Integrale EVO
 324	Lamborghini Diablo GTR
 325	Lamborghini Diablo SV
 326	Ferrari Dino 256 GT
@@ -161,7 +162,7 @@
 1317	#55 Chevrolet Oreca FLM09
 1322	Lamborghini Gallardo LP 570-4
 1323	Subaru WRX STI '11
-1325	Alfa Romeo Giulietta Quadrifoglio
+1325	Alfa Romeo Giulietta Quadrifoglio Verde
 1328  Bugatti Veyron Super Sport
 1329	Buick GSX
 1330	Chevrolet Camaro Z28
@@ -408,7 +409,8 @@
 2909	Dodge Challenger SRT Demon
 2910	Koenigsegg Agera RS
 2967	#38 Oreca 07
-2968  Aston Martin Valkyrie	
+2968  Aston Martin Valkyrie
+2968  #62 Ferrari Risi Competizione 488 GTE
 2973	Alpine A110
 2974	Ferrari 812 Superfast
 2980	Ford GT40 MkI
@@ -444,7 +446,7 @@
 3154	McLaren 720S Spider
 3155	McLaren Senna GTR
 3157	McLaren 720S GT3
-3158	#15 Ford Mustang
+3158	#15 Ford Whislter Racing Mustang 
 3161	#22 Volkswagen Golf GTI
 3168	Bugatti Divo
 3173	BMW Z4 Roadster
@@ -477,6 +479,7 @@
 3272	#1 Subaru Levorg GT
 3276	Saleen S1
 3277	Ford Mustang Shelby GT500
+3283  #57 Cadillac TA CTS-V 
 3285	Brabham BT62
 3286	Audi TT RS
 3287	Jaguar XJR-15
@@ -535,6 +538,7 @@
 3620	Nissan Z
 3622	Nissan GT-R Nismo (R35)
 3625	Rimac Neverra
+3631	Aston Martin Valkyrie AMR Pro
 3633	Lamborghini Sian FKP 37
 3644	BMW M3 Competition Sedan
 3645	BMW M4 Competition Coupe
