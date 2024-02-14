@@ -53,7 +53,7 @@
 358	Ferrari 288 GTO
 363	Subaru Impreza 22B-STi Version
 364	Subaru Impreza WRX STI '04
-365 Subaru Impreza WRX STI '05
+365	Subaru Impreza WRX STI '05
 368	Acura Integra Type R
 374	Mitsubishi Lancer Evolution IX MR
 375	Mitsubishi Lancer Evolution VI GSR
@@ -69,13 +69,13 @@
 417	Buick Regal GNX
 419	Audi RS 4
 420	Audi RS 6
-422 Acura RSX Type-S
+422	Acura RSX Type-S
 423	Mazda Savanna RX-7
 424	Mazda RX-7
 425	Mazda RX-7 Spirit R Type-A
 428	Audi S4
 432	Saleen S7
-433 TVR Sagaris
+433	TVR Sagaris
 439	Nissan Silvia CLUB K's
 440	Nissan Silvia K's
 441	Nissan Silvia Spec-R
@@ -107,7 +107,7 @@
 642	BMW M3 '91
 1005	Pontiac Firebird T/A SD-455
 1009	Mitsubishi Lancer Evolution X GSR
-1011		BMW M3	'08
+1011	BMW M3 '08
 1020	Ferrari F50 GT
 1022	Ferrari 430 Scuderia
 1023	Ferrari F40 Competizione
@@ -479,7 +479,7 @@
 3272	#1 Subaru Levorg GT
 3276	Saleen S1
 3277	Ford Mustang Shelby GT500
-3283 #57 Cadillac TA CTS-V 
+3283	#57 Cadillac TA CTS-V 
 3285	Brabham BT62
 3286	Audi TT RS
 3287	Jaguar XJR-15
