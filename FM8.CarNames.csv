@@ -131,6 +131,7 @@
 1104	Datsun 510
 1105	Aston Martin DB5
 1110	Mazda MX-5 Miata '94
+1117	Audi R8 5.2
 1125	Lamborghini Reventon
 1130	McLaren 12C Coupe
 1131	Ferrari 458 Italia
@@ -488,6 +489,7 @@
 3191	Lamborghini Espada 400 GT
 3196	Raesr Tachyon Speed
 3197	Mercedes-AMG GT3
+3198	Pantera GT5
 3211	Aston Martin Vulcan AMR Pro
 3212	Zenvo TSR-S
 3214	#70 Porsche Motorsport 935
@@ -547,6 +549,7 @@
 3395	Renault 8 Gordini
 3402	Toyota GR Supra
 3403	#15 Renault Equipe Renault Elf R.S. 01
+3411	FD #34 Supra
 3412	Subaru STI S209
 3413	Volkswagen Golf R '21
 3418	Toyota 86 TRD SE
@@ -572,6 +575,7 @@
 3517	Brabham BT8
 3518	BMW M8 Competition Coupe
 3520	Lexus LC 500
+3521	#25 Starlet TA
 3523	Formula Drift #151 Toyota GR Supra
 3529	Nissan Forsberg Racing Gold Leader Datzun 280Z
 3532	#98 Hyundai Veloster N
@@ -585,6 +589,7 @@
 3547	Xpeng P7
 3551	Formula Drift #91 BMW M2
 3552	#100 Lynk & Co 03
+3554	#1 Evolution TA
 3583	Audi RS 6 Avant '21
 3584	Audi RS 7 Sportback
 3594	Ferrari Roma
@@ -626,6 +631,7 @@
 3762	#97 Aston Martin AMR Vantage GTE
 3763	BMW M2 '23
 3766	Chevrolet Corvette Z06 '23
+3767	Acura NSX '22
 3771	Chevrolet Covette E-Ray
 3774	Lamborghini Countach LPI 800-4
 3781	Porsche 911 GT3 RS '23
@@ -655,8 +661,11 @@
 3913	#25 BMW Team RLL M Hybrid V8
 3916	Ford #130 Mustang RTR
 3919	#96 BMW M4 GT3
+3921	Z NISMO '24
 3951	Porsche 911 GT3 R '24
 3972	Chevrolet Camaro Jordan Luka 3
 3993	Toyota NASCAR Next Gen Camry XSE
 3994	Chevrolet NASCAR Next Gen Camaro ZL1
 3995	Ford NASCAR Next Gen Mustang Dark Horse
+4026	Ford Mustang GT3
+
